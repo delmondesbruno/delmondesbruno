@@ -1,27 +1,23 @@
-![Bruno Delmondes — Desenvolvimento de sistemas](./capa.svg)
+![Bruno Delmondes — Desenvolvimento de sistemas. Estágio na PRODAM e graduação em ADS na Cruzeiro do Sul.](./capa.svg)
+
+## Projetos em destaque
+
+### CoffeeGo
+
+![Ilustração do fluxo do CoffeeGo, do café no carrinho à confirmação do pedido.](./projetos/coffeego.svg)
+
+Desenhei o fluxo de pedido de uma cafeteria e testei se a pessoa conseguia concluir a compra e perceber que o pedido tinha sido recebido. A partir dos testes, trabalhei nos rótulos e no retorno visual das ações.
+
+### Jogo do número secreto
+
+![Exemplo de partida. O jogador tenta 42 e recebe a dica de que o número secreto é maior.](./projetos/numero-secreto.svg)
+
+Em JavaScript, usei `if/else` para comparar cada chute com o número sorteado e dar uma dica de maior ou menor. Com `while`, a partida continua até o acerto.
+
+## De processos a sistemas
+
+Antes do estágio na PRODAM, trabalhei nas áreas fiscal, financeira e de faturamento. Como analista de processos, participei da implantação de um ERP, conferi dados de migração e ajudei a transformar as necessidades dos usuários em requisitos para a equipe de TI.
+
+Hoje acompanho sistemas de folha de pagamento e estudo como os dados de cadastro e as regras de cálculo se refletem no contracheque. Na prática, trabalho minha leitura de PL/SQL, faço consultas em uma base Oracle de estudos e pratico C no Visual Studio e JavaScript com Git.
 
 [LinkedIn](https://www.linkedin.com/in/brunodelmondesd/) · [Instagram](https://www.instagram.com/brunodelmondesd/)
-
-[Sobre mim](#sobre-mim) · [Prática técnica](#prática-técnica) · [Projetos de estudo](#projetos-de-estudo)
-
-## Sobre mim
-
-Sou estagiário na PRODAM e curso Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Meu caminho até o desenvolvimento começou nas áreas fiscal, financeira e de faturamento. Como analista de processos, participei da implantação de um ERP, conferi dados de migração e trabalhei com a equipe de TI para traduzir as necessidades de quem usava o sistema em requisitos.
-
-Hoje acompanho sistemas de folha de pagamento. Conhecer o caminho entre um cadastro e o valor que aparece no contracheque me ajuda a entender as regras de negócio por trás do código.
-
-## Prática técnica
-
-| Área | O que estou praticando |
-| --- | --- |
-| Dados | Consultas SQL em uma base Oracle de estudos e leitura de rotinas em PL/SQL. |
-| Desenvolvimento | Programação em C no Visual Studio e lógica de programação em JavaScript. |
-| Versionamento | Uso de Git e GitHub para acompanhar as alterações no código e registrar decisões de projeto. |
-
-## Projetos de estudo
-
-**Jogo do número secreto** · JavaScript  
-Implementei dicas de maior ou menor e usei um laço de repetição para que o jogador pudesse continuar tentando até acertar.
-
-**CoffeeGo** · Prototipagem e interação  
-Desenhei o fluxo de pedido de um café, do carrinho à confirmação. Nos testes de usabilidade, trabalhei a clareza dos rótulos e o retorno visual após cada ação.
