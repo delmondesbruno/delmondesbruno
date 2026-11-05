@@ -1,5 +1,7 @@
 ![Bruno Delmondes — Desenvolvimento de sistemas](./capa.svg)
 
+[LinkedIn](https://www.linkedin.com/in/brunodelmondesd/) · [Instagram](https://www.instagram.com/brunodelmondesd/)
+
 [Sobre mim](#sobre-mim) · [Prática técnica](#prática-técnica) · [Projetos de estudo](#projetos-de-estudo)
 
 ## Sobre mim
