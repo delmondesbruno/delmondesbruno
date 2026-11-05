@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 270" width="960" height="270" role="img" aria-labelledby="title">
-<title id="title">Bruno Delmondes — Desenvolvimento de sistemas</title>
-<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#18313a"/></pattern></defs>
-<rect x="1" y="1" width="958" height="268" rx="9" fill="#080c0e" stroke="#477784"/>
-<path d="M0 47H960" stroke="#325965"/><path d="M24 46h152" stroke="#ffb454" stroke-width="3"/>
-<text x="30" y="31" font-family="monospace" font-size="17" fill="#d3e0e4">perfil.md</text>
-<rect x="680" y="48" width="278" height="218" fill="url(#grid)"/>
-<g fill="none" stroke-width="2"><path d="M702 200l62-62h42l57-57h70" stroke="#75d8e8"/><path d="M702 224l62-62h54l57-57h58" stroke="#477784"/><circle cx="764" cy="138" r="5" fill="#080c0e" stroke="#ffb454"/></g>
-<text x="36" y="149" fill="#f2f5f6" font-size="64" font-weight="bold" font-family="sans-serif">Bruno Delmondes</text>
-<text x="40" y="202" fill="#86d8e7" font-family="monospace" font-size="24">Desenvolvimento de sistemas</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252" role="img"><title>Bruno Delmondes — Desenvolvimento de sistemas</title><rect width="100%" height="100%" rx="12" fill="#101820"/><defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1.2" fill="#37535c"/></pattern></defs><rect x="672" width="288" height="252" fill="url(#dots)"/><path d="M0 45H960" stroke="#354651"/><path d="M32 44H176" stroke="#86e1d3" stroke-width="3"/><text x="34" y="29" font-family="monospace" font-size="16" font-weight="400" fill="#86e1d3">~/ perfil.md</text><text x="36" y="121" font-family="sans-serif" font-size="62" font-weight="700" fill="#f5f8fa">Bruno Delmondes</text><text x="39" y="164" font-family="sans-serif" font-size="28" font-weight="400" fill="#86e1d3">Desenvolvimento de sistemas</text><text x="40" y="216" font-family="sans-serif" font-size="19" font-weight="400" fill="#c5d2da">Estágio na PRODAM  /  ADS · Cruzeiro do Sul</text><g fill="none" stroke-linejoin="round" stroke-width="3"><path d="m792 61 65 35-65 36-65-36z" fill="#1e373e" stroke="#86e1d3"/><path d="m727 124 65 36 65-36m-130 29 65 36 65-36" stroke="#699aab"/><path d="m727 182 65 36 65-36" stroke="#ffbd76"/></g></svg>
