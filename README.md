@@ -20,6 +20,8 @@
   <img src="./assets/projetos.svg" width="100%" alt="CoffeeGo: fluxo de compra e testes de usabilidade. Número secreto: sorteio, dicas e contador de tentativas em JavaScript.">
 </picture>
 
+[CoffeeGo — processo, telas e testes](./projetos/coffeego/README.md) · [Estudos de engenharia de prompt — quatro atividades](./estudos/engenharia-de-prompt/README.md)
+
 [Código do jogo do número secreto — repositório privado](https://github.com/delmondesbruno/logica-js-projeto_inicial)
 
 <picture>
@@ -43,3 +45,4 @@ Hoje acompanho sistemas de folha de pagamento e estudo a relação entre dados d
 No CoffeeGo, desenhei o fluxo de pedido de uma cafeteria e usei testes para trabalhar rótulos e retorno visual. No jogo do número secreto, pratico sorteio, condições, repetição e contagem de tentativas.
 
 </details>
+
