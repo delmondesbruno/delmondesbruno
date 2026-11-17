@@ -23,9 +23,11 @@ Em JavaScript, usei `if/else` para comparar cada chute com o número sorteado e 
 
 ## `~/certificados`
 
-Meus primeiros cursos concluídos na Alura, acompanhando o início dos estudos em programação.
+Cursos de programação concluídos na Alura, acompanhando o início dos meus estudos.
 
 | Curso | Carga horária | Conclusão | Certificado |
 | --- | --- | --- | --- |
 | Começando em Programação: carreira e primeiros passos | 1 hora | 16/10/2026 | [Ver na Alura](https://cursos.alura.com.br/certificate/46164438-1359-46e3-99c7-6a9c8611cc99) |
 | Lógica de programação: mergulhe em programação com JavaScript | 6 horas | 17/11/2026 | [Ver na Alura](https://cursos.alura.com.br/certificate/3f0fa6f8-0771-4982-8477-61c95161f529) |
+
+[Ver todos os certificados](./certificados/README.md) · Treinamentos da PRODAM em segurança da informação, LGPD e integridade disponíveis na pasta de certificados.
