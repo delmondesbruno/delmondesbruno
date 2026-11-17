@@ -14,6 +14,15 @@ Desenhei o fluxo de pedido de uma cafeteria e testei se a pessoa conseguia concl
 
 Em JavaScript, usei `if/else` para comparar cada chute com o número sorteado e dar uma dica de maior ou menor. Com `while`, a partida continua até o acerto.
 
+## Cursos e certificados
+
+Meus primeiros cursos concluídos na Alura, acompanhando o início dos estudos em programação.
+
+| Curso | Carga horária | Conclusão | Certificado |
+| --- | --- | --- | --- |
+| Começando em Programação: carreira e primeiros passos | 1 hora | 16/10/2026 | [Ver na Alura](https://cursos.alura.com.br/certificate/46164438-1359-46e3-99c7-6a9c8611cc99) |
+| Lógica de programação: mergulhe em programação com JavaScript | 6 horas | 17/11/2026 | [Ver na Alura](https://cursos.alura.com.br/certificate/3f0fa6f8-0771-4982-8477-61c95161f529) |
+
 ## De processos a sistemas
 
 Antes do estágio na PRODAM, trabalhei nas áreas fiscal, financeira e de faturamento. Como analista de processos, participei da implantação de um ERP, conferi dados de migração e ajudei a transformar as necessidades dos usuários em requisitos para a equipe de TI.
