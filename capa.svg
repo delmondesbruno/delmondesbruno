@@ -1,1 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252" role="img"><title>Bruno Delmondes — Desenvolvimento de sistemas</title><rect width="100%" height="100%" rx="12" fill="#101820"/><defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1.2" fill="#37535c"/></pattern></defs><rect x="672" width="288" height="252" fill="url(#dots)"/><path d="M0 45H960" stroke="#354651"/><path d="M32 44H176" stroke="#86e1d3" stroke-width="3"/><text x="34" y="29" font-family="monospace" font-size="16" font-weight="400" fill="#86e1d3">~/ perfil.md</text><text x="36" y="121" font-family="sans-serif" font-size="62" font-weight="700" fill="#f5f8fa">Bruno Delmondes</text><text x="39" y="164" font-family="sans-serif" font-size="28" font-weight="400" fill="#86e1d3">Desenvolvimento de sistemas</text><text x="40" y="216" font-family="sans-serif" font-size="19" font-weight="400" fill="#c5d2da">Estágio na PRODAM  /  ADS · Cruzeiro do Sul</text><g fill="none" stroke-linejoin="round" stroke-width="3"><path d="m792 61 65 35-65 36-65-36z" fill="#1e373e" stroke="#86e1d3"/><path d="m727 124 65 36 65-36m-130 29 65 36 65-36" stroke="#699aab"/><path d="m727 182 65 36 65-36" stroke="#ffbd76"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="290" viewBox="0 0 880 290" role="img">
+<title>Bruno Delmondes | Desenvolvimento de sistemas</title>
+<rect x="1" y="1" width="878" height="288" rx="12" fill="#0d141b" stroke="#384650"/>
+<path d="M1 46H879" stroke="#384650"/>
+<g><circle cx="26" cy="23" r="5" fill="#ed897d"/><circle cx="43" cy="23" r="5" fill="#e9bd74"/><circle cx="60" cy="23" r="5" fill="#82ce98"/></g>
+<g font-family="monospace"><text x="440" y="29" text-anchor="middle" font-size="16" fill="#b8c9ce">bruno@github ~ /perfil</text>
+<text x="34" y="91" font-size="21" fill="#82edbd">$ whoami</text>
+<text x="31" y="152" font-size="52" font-weight="700" fill="#f3f6fa">Bruno Delmondes</text>
+<text x="35" y="196" font-size="25" fill="#bbcfdf">Desenvolvimento de sistemas</text>
+<text x="35" y="252" font-size="21" fill="#82edbd">~/estudos <tspan fill="#b8c9ce">❯</tspan></text><rect x="174" y="235" width="12" height="20" fill="#82edbd"/></g>
+<rect x="686" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="699" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="712" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="725" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="738" y="110" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="751" y="110" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="768" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="781" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="794" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="807" y="110" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="820" y="110" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="686" y="123" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="699" y="123" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="712" y="123" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="725" y="123" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="738" y="123" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="751" y="123" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="768" y="123" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="781" y="123" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="794" y="123" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="807" y="123" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="820" y="123" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="686" y="136" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="699" y="136" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="712" y="136" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="725" y="136" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="738" y="136" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="751" y="136" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="768" y="136" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="781" y="136" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="794" y="136" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="807" y="136" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="820" y="136" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="686" y="149" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="699" y="149" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="712" y="149" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="725" y="149" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="738" y="149" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="751" y="149" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="768" y="149" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="781" y="149" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="794" y="149" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="807" y="149" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="820" y="149" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="686" y="162" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="699" y="162" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="712" y="162" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="725" y="162" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="738" y="162" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="751" y="162" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="768" y="162" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="781" y="162" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="794" y="162" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="807" y="162" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="820" y="162" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="686" y="175" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="699" y="175" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="712" y="175" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="725" y="175" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="738" y="175" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="751" y="175" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="768" y="175" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="781" y="175" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="794" y="175" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="807" y="175" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="820" y="175" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="686" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="699" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="712" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="725" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="738" y="188" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="751" y="188" width="10" height="10" rx="2" fill="#18312e"/>
+<rect x="768" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="781" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="794" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="807" y="188" width="10" height="10" rx="2" fill="#82edbd"/>
+<rect x="820" y="188" width="10" height="10" rx="2" fill="#18312e"/></svg>
